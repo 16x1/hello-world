@@ -1,2 +1,5 @@
 # hello-world
-repository
+
+Hi Humans!
+
+Indian here, i like Minecraft and CSGO. 
