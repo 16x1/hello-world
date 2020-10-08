@@ -1,0 +1,22 @@
+{
+  "name": "discord-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-player": "^3.0.0-beta.1",
+    "discord-ytdl-core": "^4.0.9",
+    "discord.js": "^12.3.1",
+    "merge-options": "^3.0.3",
+    "node-fetch": "^2.6.1",
+    "spotify-url-info": "^2.0.0",
+    "ytpl": "^1.0.1",
+    "ytsr": "^1.0.4"
+  }
+}
